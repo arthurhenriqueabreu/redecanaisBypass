@@ -1,7 +1,7 @@
 # Redecanais Ad Bypass Extension
 
 💻 **Descrição**  
-Uma extensão simples de navegador que automatiza e remove a necessidade de interações manuais com anúncios obrigatórios no site [redecanais.dev](https://redecanais.dev).  
+Uma extensão simples de navegador que automatiza e remove a necessidade de interações manuais com anúncios obrigatórios no site [redecanais.gs](https://redecanais.gs).  
 Ideal para quem quer assistir seu conteúdo sem ser forçado a clicar em anúncios ou ser redirecionado duas vezes antes de acessar o player.
 
 ⚙️ **Como Funciona**  
@@ -19,4 +19,4 @@ A extensão detecta automaticamente o botão que exige interação com anúncios
 
 1. Clone este repositório:
    ```bash
-   git clone 
+   git clone https://github.com/arthurhenriqueabreu/redecanaisBypass.git
